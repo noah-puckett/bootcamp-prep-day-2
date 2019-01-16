@@ -1,0 +1,14 @@
+body {
+    color: darkgray;
+}
+
+h1 {
+    border: .5px dotted lightcoral;
+    font-family: sans-serif;
+}
+
+.holder-type {
+    color: lightcoral;
+    font-family: sans-serif;
+    padding: 10px;
+}
